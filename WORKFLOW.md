@@ -86,7 +86,8 @@ I pushed the tag to the GitHub repository using `git push --tags`.
 
 The tag points to the final commit of the completed workflow.
 
-![Task 6 Evidence](screenshots/task6.png)
+![Task 6 Terminal Evidence](screenshots/task6-terminal.png)
+![Task 6 Github Evidence](screenshots/task6-github.png)
 
 ---
 
